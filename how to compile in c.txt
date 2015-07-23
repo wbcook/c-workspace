@@ -1,0 +1,9 @@
+1. install and PATH MinGW a port of the GNU GCC C, C++ ADA and Fortran compiler
+2. write a program in Notepad++
+3. run the program using gcc
+>gcc --version
+>
+>gcc hello1.c -o hello1
+>
+>hello1
+>Hello, World!
